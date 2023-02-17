@@ -14,7 +14,7 @@ body{
 }
 .greetings{
     font-size: 6rem;
-    font-weight: 1500;
+    font-weight: 900;
 }
 .greetings > span{
     animation: glow 2.5s ease-in-out infinite;
@@ -43,18 +43,6 @@ body{
 }
 .greetings > span:nth-child(6){
     animation-delay: 1s ;
-}
-.greetings > span:nth-child(7){
-    animation-delay: 1.2s ;
-}
-.greetings > span:nth-child(8){
-    animation-delay: 1.4s;
-}
-.greetings > span:nth-child(9){
-    animation-delay: 1.6s;
-}
-.greetings > span:nth-child(10){
-    animation-delay: 1.8s;
 }
 .description{
     font-size: 1.5rem;
